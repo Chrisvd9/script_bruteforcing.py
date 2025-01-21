@@ -5,7 +5,6 @@ from concurrent.futures import ThreadPoolExecutor
 import signal
 import sys
 
-# Constantes
 DEFAULT_TIMEOUT = 5
 DEFAULT_THREADS = 10
 
